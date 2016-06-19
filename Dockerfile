@@ -1,6 +1,6 @@
 FROM ubuntu:14.04.4
 
-MAINTAINER Nicola Corti "me@sofianhw.com"
+MAINTAINER Sofian Hadiwijaya "me@sofianhw.com"
 
 LABEL name=fb-redex
 LABEL version=1
